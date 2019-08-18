@@ -1,5 +1,5 @@
 Type Vendor
-ID 20003
+ID 10023
 
 Selling 82
 
@@ -258,5 +258,5 @@ Selling_1_Cost 20
 Selling_0_ID 516
 Selling_0_Cost 50
 
-Selling_0_ID 1175
-Selling_0_Cost 100
+Selling_10_ID 1175
+Selling_10_Cost 100
