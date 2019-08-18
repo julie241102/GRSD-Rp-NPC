@@ -55,9 +55,9 @@ Vendors : 20003
 ```
 
 
-## Npc's ID *Illegal*
+## Npc's ID *Papers*
 
-##### Dealer
+##### Moniteur
 ```bash
 Characters : 30000
 Dialogues-welcome : 30001
