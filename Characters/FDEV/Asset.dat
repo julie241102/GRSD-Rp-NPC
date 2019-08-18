@@ -1,5 +1,5 @@
 Type NPC
-ID 19000
+ID 10020
 
 Shirt 421
 Pants 422
@@ -11,4 +11,4 @@ Color_Hair #473928
 
 Secondary 180
 
-Dialogue 20001
+Dialogue 10021
