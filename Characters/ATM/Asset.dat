@@ -1,5 +1,5 @@
 Type NPC
-ID 8249
+ID 10000
 
 Shirt 421
 Pants 422
@@ -13,4 +13,4 @@ Color_Hair #473928
 
 Secondary 488
 
-Dialogue 8560
+Dialogue 10001
