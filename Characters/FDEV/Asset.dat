@@ -1,0 +1,14 @@
+Type NPC
+ID 19000
+
+Shirt 421
+Pants 422
+
+Face 9
+Hair 12
+Color_Skin #BEA582
+Color_Hair #473928
+
+Secondary 180
+
+Dialogue 20001
