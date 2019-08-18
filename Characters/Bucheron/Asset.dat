@@ -1,16 +1,17 @@
 Type NPC
 ID 8300
 
-Shirt 421
-Pants 422
+Shirt 211
+Pants 2
 Backpack 245
-Hat 1385
+Hat 430
 
-Face 9
+Face 17
 Hair 12
-Color_Skin #BEA582
-Color_Hair #473928
+Beard 1
+Color_Skin #F3CCA5
+Color_Hair #220F02
 
-Secondary 488
+Secondary 16
 
 Dialogue 8301
