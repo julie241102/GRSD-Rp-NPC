@@ -1,5 +1,5 @@
 Type NPC
-ID 19020
+ID 20000
 
 Hat 430
 Shirt 183
@@ -12,4 +12,4 @@ Color_Hair #473928
 
 Secondary 1036
 
-Dialogue 20021
+Dialogue 20001
