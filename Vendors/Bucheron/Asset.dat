@@ -1,16 +1,24 @@
 Type Vendor
-ID 8303
+ID 10013
+
 
 Buying 2
+
 Buying_0_ID 37
 Buying_0_Cost 5
+
 Buying_1_ID 38
 Buying_1_Cost 2
 
+------------------------
+
 Selling 3
+
 Selling_0_ID 16
 Selling_0_Cost 200
+
 Selling_1_ID 490
 Selling_1_Cost 3500
+
 Selling_2_ID 141
 Selling_2_Cost 1500
