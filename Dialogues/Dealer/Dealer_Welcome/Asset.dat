@@ -1,10 +1,10 @@
 Type Dialogue
-ID 20021
+ID 20001
 
 Messages 1
 Message_0_Pages 1
 
 Responses 2
 
-Response_0_Dialogue 20022
-Response_0_Vendor 20023
+Response_0_Dialogue 20002
+Response_0_Vendor 20003
