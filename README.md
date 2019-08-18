@@ -53,3 +53,14 @@ Dialogues-welcome : 20001
 Dialogue-vendor : 20002
 Vendors : 20003
 ```
+
+
+## Npc's ID *Illegal*
+
+##### Dealer
+```bash
+Characters : 30000
+Dialogues-welcome : 30001
+Dialogue-vendor : 30002
+Vendors : 30003
+```
