@@ -19,6 +19,30 @@ Dialogue-vendor : 10012
 Vendors : 10013
 ```
 
+##### FDEV
+```bash
+Characters : 10020
+Dialogues-welcome : 10021
+Dialogue-vendor : 10022
+Vendors : 10023
+```
+
+##### FDNEB
+```bash
+Characters : 10030
+Dialogues-welcome : 10031
+Dialogue-vendor : 10032
+Vendors : 10033
+```
+
+##### Mineur
+```bash
+Characters : 10040
+Dialogues-welcome : 10041
+Dialogue-vendor : 10042
+Vendors : 10043
+```
+
 
 ## Npc's ID *Illegal*
 
