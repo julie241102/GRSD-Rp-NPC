@@ -1,10 +1,10 @@
 Type Dialogue
-ID 8560
+ID 10001
 
 Messages 1
 Message_0_Pages 1
 
 Responses 2
 
-Response_0_Dialogue 8561
-Response_0_Vendor 8555
+Response_0_Dialogue 10002
+Response_0_Vendor 10003
