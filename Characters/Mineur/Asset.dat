@@ -1,16 +1,16 @@
 Type NPC
 ID 8310
 
-Shirt 421
-Pants 422
+Shirt 232
+Pants 213
 Backpack 245
-Hat 1385
+Hat 240
 
-Face 9
-Hair 12
-Color_Skin #BEA582
-Color_Hair #473928
+Face 17
+Hair 3
+Color_Skin #150901
+Color_Hair #000000
 
-Secondary 488
+Secondary 1198
 
 Dialogue 8311
