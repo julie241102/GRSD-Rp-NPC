@@ -1,5 +1,5 @@
 Type NPC
-ID 19010
+ID 10030
 
 Hat 239
 Shirt 230
@@ -10,4 +10,4 @@ Hair 12
 Color_Skin #BEA582
 Color_Hair #473928
 
-Dialogue 20011
+Dialogue 10031
