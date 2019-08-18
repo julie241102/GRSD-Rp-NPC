@@ -1,5 +1,5 @@
 Type NPC
-ID 8300
+ID 10010
 
 Shirt 211
 Pants 2
@@ -14,4 +14,4 @@ Color_Hair #220F02
 
 Secondary 16
 
-Dialogue 8301
+Dialogue 10011
