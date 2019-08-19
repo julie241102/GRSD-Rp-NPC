@@ -1,4 +1,4 @@
-# GRSD---Rp-NPC
+# GRSD - Rp NPC
 Npc's Unturned Rp server
 
 ## Npc's ID *Legal*
